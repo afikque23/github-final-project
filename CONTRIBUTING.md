@@ -2,6 +2,9 @@
 
 Thank you for considering contributing to the Simple Interest Calculator project!
 
+All contributions, bug reports, bug fixes, documentation improvements,
+enhancements, and ideas are welcome.
+
 ## How to Contribute
 1. Fork the repository.
 2. Create a new feature branch (`git checkout -b feature/AmazingFeature`).
