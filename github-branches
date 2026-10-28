@@ -1,4 +1,5 @@
 $ git branch -vv
-  bug-fix-typo             7a50406 Fix README typo
-* complete-code-of-conduct bff5370 Save pull request verification output
-  main                     7a50406 [origin/main: ahead 2] Fix README typo
+* bug-fix-revert            65f6fa6 Save GitHub branch status
+  bug-fix-typo              7a50406 Fix README typo
+  complete-code-of-conduct  65f6fa6 Save GitHub branch status
+  main                      7a50406 [origin/main: ahead 2] Fix README typo
