@@ -1,0 +1,5 @@
+$ curl -s https://api.github.com/repos/afikque23/github-final-project/pulls/1 | grep -E '"number"|"html_url"|"head"|"repo"|"full_name"'
+  "html_url": "https://github.com/afikque23/github-final-project/pull/1",
+  "number": 1,
+      "repo": {
+        "full_name": "afikque23/github-final-project",
